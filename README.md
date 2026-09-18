@@ -20,8 +20,6 @@
 - **Justificativa da escolha:** o grupo escolheu a MAXfood pela relação de proximidade e amizade com o proprietário e pelo fato de uma integrante ser cliente assídua do estabelecimento. Esse vínculo facilita o contato com a organização e o acesso às informações necessárias para a pesquisa e o levantamento de suas necessidades.
 - **Evidências da organização:** o grupo forneceu uma fotografia da visita à MAXfood, com integrantes do grupo e o proprietário, conforme informado pelo grupo. A imagem mostra o ambiente de atendimento e a identificação visual do estabelecimento. Para exibi-la no repositório, salvar a fotografia em `imagens/visita-maxfood.jpeg`. A publicação depende da autorização das pessoas retratadas.
 
-![Registro da visita do grupo à MAXfood](imagens/visita-maxfood.jpeg)
-
 *Figura 1 — Registro da visita do grupo à MAXfood com o proprietário. Fonte: acervo do grupo. Data da fotografia não informada.*
 
  Também foi fornecido o relato da entrevista realizada em abril de 2026. Local informado: UNICID — Universidade Cidade de São Paulo — Campus Tatuapé. Responsável informado: Rafael Novais. Não foram fornecidos links, rua, número ou CEP. O telefone informado na entrevista foi omitido desta versão pública até que haja autorização para sua divulgação.
